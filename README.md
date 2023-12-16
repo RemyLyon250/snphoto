@@ -73,20 +73,20 @@ Organize pictures into albums by creating new albums and moving images into them
 
 Screenshots
 Registration Page
-<img width="1456" alt="Screenshot 2023-05-16 at 16 44 17" src="https://==
+<img width="1456" alt="Screenshot 2023-05-16 at 16 44 17" src="https://github.com/RemyLyon250/snphoto/blob/main/screen/Snp%20user.PNG">
 
 Registration Page
 
 Login Page
-
+<img width="1196" alt="Screenshot 2023-05-16 at 19 26 30" src="https://github.com/RemyLyon250/snphoto/blob/main/screen/login.PNG">
 
 Login Page
 
 users
-
+<img width="1680" alt="Screenshot 2023-05-16 at 19 26 22" src="https://github.com/RemyLyon250/snphoto/blob/main/screen/Snp%20user.PNG">
 
 Gallery Page
-
+<img width="1680" alt="Screenshot 2023-05-16 at 19 26 22" src="https://github.com/RemyLyon250/snphoto/blob/main/screen/home.PNG">
 Gallery Page
 
 
